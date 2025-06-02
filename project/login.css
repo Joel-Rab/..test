@@ -1,0 +1,166 @@
+body{
+    background-image: url(img/fondo_imagen.jpg);
+}
+
+.container {
+    position: absolute;
+    top: 20px;    
+    right: 99px;   
+    text-align: right;
+}
+
+h1 {
+    color:rgb(12, 11, 11);
+    text-align: center;
+    text-shadow:0cqh ;
+    
+    
+}
+/*.contenedor {
+    text-align: left;
+    width: 50%;
+    position-anchor: center;;
+}*/
+
+.subscribe-button {
+    background-color: rgb(200, 0, 0); /* Verde */
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;
+}
+
+
+/*.buy-button{
+
+    background-color :greenyellow;
+    border:none;
+    cursor:pointer;
+    color:white;
+    height:50px;
+    width:80px;
+    border-radius:25px;
+    margin-left:8px;
+}*/
+
+.login-box {
+    border: none;
+    color: rgb(255, 255, 255);
+    height: 50px;
+    width: 80px;;
+    position: absolute;
+    bottom: 70%;
+    left: 45%;
+    font-family:arial,sans-serif;
+    
+    
+}
+
+.submit-button {
+    background-color: rgb(128, 45, 161);
+    border: none;
+    color: black;
+    padding: 10px 80px;
+    text-align: center;
+    font-size: 20px;
+    margin: 4px 2px;
+    cursor: pointer;
+    font-family:arial,sans-serif;
+    border-radius:25px;
+}
+
+.login-input {
+    color:rgb(0, 0, 0);
+    text-align: center;
+    width: 200px;
+    height: 20px;
+    border: 2px solid rgb(128, 45, 161);
+    border-radius: 5px;
+    padding: 10px;
+    font-family: arial, sans-serif;
+    font-size: 16px;
+    margin-bottom: 10px;
+    background-color: rgb(50, 4, 68);
+    
+}
+
+.login-text{
+    position: absolute;
+    bottom: 30%;
+    right: 41%;
+    font-family:Franklin Gothic Medium, Arial Narrow, Arial, sans-serif;
+    font-size: 18px;
+    
+    
+}
+
+.forgot-password {
+    position: absolute;
+    bottom: 25%;
+    right:34%;
+    font-family: Franklin Gothic Medium, Arial Narrow, Arial, sans-serif;
+    font-size: 17px;
+
+}
+
+
+.footer {
+    position: absolute;
+    bottom: 0;
+    width: 100%;
+    color: rgb(0, 0, 0);
+    text-align: center;
+    padding: 10px 0;
+    font-family: Cambria, Cochin, Georgia, Times, Times New Roman, serif;
+    font-size: larger;
+}
+
+.social-icon{
+    position:relative;
+    top:700px;
+    right: -600px;
+    width: 200px;
+    height:50px;
+    border-radius: 5px;
+    margin-left: 5px;
+    cursor:pointer;
+}
+
+.header{
+    background-color:#f2f2f2;
+    text-align: center;
+    padding: 25px;
+    
+}
+
+
+.nav a{
+    display: inline-block;
+    text-decoration:none;
+    color: rgba(255, 255, 255, 0.712);
+    cursor:pointer;
+    margin: 0px 40px;
+    font-family: Arial, sans-serif;
+    font-size: 19px;
+    border-radius: 5px;
+
+}
+
+nav a:hover {
+    background-color: rgb(98, 0, 255);
+    color: #fff;
+
+
+}
+
+.header{
+    background-image: url(img/banner.avif);
+
+
+}
+
